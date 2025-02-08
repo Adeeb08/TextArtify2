@@ -1,10 +1,10 @@
-# TextArtify1
+# TextArtify2
 
-TextArtify1 is a simple web application that uses the Hugging Face API to generate images from text prompts. It provides an easy-to-use interface powered by Gradio.
+TextArtify2 is a simple web application that uses the Hugging Face API to generate images from text prompts. It provides an easy-to-use interface powered by Gradio.
 
 ## Project Description
 
-TextArtify1 allows users to input a textual description and receive a generated image based on that description. This project utilizes the `strangerzonehf/Flux-Midjourney-Mix2-LoRA` model from Hugging Face's API to perform the image generation.
+TextArtify2 allows users to input a textual description and receive a generated image based on that description. This project utilizes the `strangerzonehf/Flux-Midjourney-Mix2-LoRA` model from Hugging Face's API to perform the image generation.
 
 ## Getting Started
 
@@ -19,11 +19,11 @@ To run this project locally, follow the steps below.
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/Adeeb08/TextArtify1.git
+    git clone https://github.com/Adeeb08/TextArtify2.git
     cd TextArtify1
     ```
 
-2. **Create a Virtual Environment** (optional but recommended):
+2. **Create a Virtual Environment** (optional):
     ```sh
     python -m venv venv
     source venv/bin/activate   # On Windows use `venv\Scripts\activate`
