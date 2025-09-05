@@ -1,3 +1,6 @@
+This project is currently active on the Hugging Face Spaces. 
+https://huggingface.co/spaces/Kepler452/test-space
+
 # TextArtify2
 
 TextArtify2 is a simple web application that uses the Hugging Face API to generate images from text prompts. It provides an easy-to-use interface powered by Gradio.
